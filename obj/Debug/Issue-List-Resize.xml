@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Issue-List-Resize
+</name>
+</assembly>
+<members>
+<member name="T:Issue_List_Resize.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Issue_List_Resize.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Issue_List_Resize.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Issue_List_Resize.FormLists.Panel1_MouseLeave(System.Object,System.EventArgs)">
+ <summary>
+ Panel1_MouseLeave - Small Panel area for resize - MouseLeave event
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Issue_List_Resize.FormLists.Panel1_MouseMove(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Panel1_MouseMove - Small Panel area for resize - MouseMove event
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:Issue_List_Resize.FormLists.PosX">
+ <summary>
+ Last mouse X position
+ </summary>
+</member>
+<member name="F:Issue_List_Resize.FormLists.MinGroupSize">
+ <summary>
+ MinGroupSize - Low Group Size limit (always large than this value)
+ </summary>
+</member>
+<member name="M:Issue_List_Resize.FormLists.MovePanel(System.Int32)">
+ <summary>
+ MovePanel - Move horizontaly the panels by DeltaX
+ </summary>
+ <param name="DeltaX">Delta X</param>
+</member>
+<member name="M:Issue_List_Resize.FormLists.ResetPanel">
+ <summary>
+ ResetPanel - Resize the panels positions, with half of total size for each
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,12 @@
+C:\source\repos\Issue-List-Resize\bin\Debug\Issue-List-Resize.exe.config
+C:\source\repos\Issue-List-Resize\bin\Debug\Issue-List-Resize.exe
+C:\source\repos\Issue-List-Resize\bin\Debug\Issue-List-Resize.pdb
+C:\source\repos\Issue-List-Resize\bin\Debug\Issue-List-Resize.xml
+C:\source\repos\Issue-List-Resize\obj\Debug\Issue-List-Resize.vbprojAssemblyReference.cache
+C:\source\repos\Issue-List-Resize\obj\Debug\Issue_List_Resize.FormLists.resources
+C:\source\repos\Issue-List-Resize\obj\Debug\Issue_List_Resize.Resources.resources
+C:\source\repos\Issue-List-Resize\obj\Debug\Issue-List-Resize.vbproj.GenerateResource.cache
+C:\source\repos\Issue-List-Resize\obj\Debug\Issue-List-Resize.vbproj.CoreCompileInputs.cache
+C:\source\repos\Issue-List-Resize\obj\Debug\Issue-List-Resize.exe
+C:\source\repos\Issue-List-Resize\obj\Debug\Issue-List-Resize.xml
+C:\source\repos\Issue-List-Resize\obj\Debug\Issue-List-Resize.pdb
